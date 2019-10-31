@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TendenciasControl", "TendenciasControl\TendenciasControl.csproj", "{3C9008CE-C404-4B12-81A4-0D34A39CE23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9008CE-C404-4B12-81A4-0D34A39CE23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9008CE-C404-4B12-81A4-0D34A39CE23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9008CE-C404-4B12-81A4-0D34A39CE23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9008CE-C404-4B12-81A4-0D34A39CE23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0EEEFD-B059-4DE8-B02E-5017CAD71094}
+	EndGlobalSection
+EndGlobal
